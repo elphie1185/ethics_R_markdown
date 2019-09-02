@@ -25,23 +25,14 @@ slides > slide {
 }
 
 slides > slide {
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 26px;
-    color: #797979;
-    width: 1100px;
-    height: 700px;
-    margin-left: -550px;
-    margin-top: -350px;
-    padding: 40px 60px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
-    border-radius: 5px;
-    -webkit-transition: all 0.6s ease-in-out;
-    -moz-transition: all 0.6s ease-in-out;
-    -o-transition: all 0.6s ease-in-out;
-    transition: all 0.6s ease-in-out;
+    color: black;
 }
 
 .segue {
@@ -86,6 +77,11 @@ h2 {
 }
 
 /*     Quote reference font         */
+
+h3 {
+  color: black;
+  font-family: "arial";
+}
 
 h4 {
   color: black;
@@ -138,14 +134,14 @@ h5 {
 
 /*    Network Image Display        */ 
 .network-img {
-  width: 60%;  
+  width: 50%;  
   margin-right: 20px;
   mix-blend-mode: multiply;
 }
 
 /*    Logistic reg Image Display        */ 
 .logistic-img {
-  width: 70%;  
+  width: 60%;  
   margin-right: 20px;
   mix-blend-mode: multiply;
 }
@@ -153,7 +149,7 @@ h5 {
 
 /*    Neural Network Image Display        */ 
 .neural-net-img {
-  width: 67%;  
+  width: 60%;  
   margin-right: 20px;
   mix-blend-mode: multiply;
 }
@@ -161,7 +157,7 @@ h5 {
 
 /*      Input output image display      */
 .inout-img {
-  width: 40%;  
+  width: 30%;  
   margin-right: 20px;
   mix-blend-mode: multiply;
 }
@@ -170,7 +166,7 @@ h5 {
 /*      Collecting data image          */
 
 .data-col-img {
-  width: 70%;  
+  width: 40%;  
   margin-right: 20px;
   mix-blend-mode: multiply;
 }
@@ -178,7 +174,7 @@ h5 {
 
 /*      Collecting data image          */
 .two-heads-img {
-  width: 60%;  
+  width: 40%;  
   margin-right: 20px;
   background-color: green;
   background-blend-mode: multiply;
@@ -187,7 +183,7 @@ h5 {
 
 /*      Question mark image          */
 .question-img {
-  width: 70%;  
+  width: 65%;  
   margin-right: 20px;
   mix-blend-mode: multiply;
 }
