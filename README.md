@@ -21,6 +21,13 @@ The complexity of deep learning algorithms and neural network was highlighted by
 
 ![](/screenshots/neural_net_rep.jpg)
 
+### Discussion
+The talk then moved on to discussing the parts of the process where steps should be included to make deep learning algorithm more transparent. 
+Processes such as : 
+- having a expert in the field of the data to design the analysis and the algorithm process
+- ensuring that the data collected to train the model is complete and without biases. Making sure that this data is tested against outcome. 
+- 
+
 ### Conclusion
 
 ![](/screenshots/conclusion.jpg)
