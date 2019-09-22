@@ -28,6 +28,8 @@ Processes such as :
 - ensuring that the data collected to train the model is complete and without biases. Making sure that this data is tested against outcome. 
 - 
 
+![](/screenshots/Screenshot%202019-09-22%20at%2014.36.43.png)
+
 ### Conclusion
 
 ![](/screenshots/conclusion.jpg)
